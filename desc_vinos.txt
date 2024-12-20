@@ -1,0 +1,12 @@
+Los datos del dataset corresponden a medidas sobre tres tipos de vinos.
+El objetivo final es la predicción del nivel de alcohol (AH) a partir de las variables disponibles.
+
+Descripción de variables:
+TIPO -	Tipo de vino
+PH   -	Ph (0 a14)
+AV   -	Acidez volátil
+DS   -	Dióxido sulfuro
+S    -	Sulfatos
+AC   -	Proporción de ácido cítrico (0 a 1)
+AR   -	Azúcar residual
+AH   -	Alcohol

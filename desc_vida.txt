@@ -1,0 +1,23 @@
+El dataset recolecta datos brindados por la OMS y ha sido obtenido a través del repositorio Kaggle.
+El objetivo final es la predicción de la esperanza de vida (EV) a partir de las variables disponibles.
+
+Descripción de variables:
+PS   -	País
+R    -	Región
+AA   -	Año
+MI   -	Mortalidad infantil por cada 1000 habitantes.
+MI5  -	Muertes de niños menores de cinco años por cada 1000 habitantes
+MA   -	Muertes de adultos por cada 1000 habitantes.
+CA   -	Consumo de alcohol en litros de alcohol puro per cápita en mayores de 15 años.
+HB   -	Porcentaje de la inmunización contra la hepatitis B entre niños de 1 año.
+S    -	Porcentaje de la inmunización contra el sarampión entre niños de 1 año.
+BMI  -	?ndice de masa corporal.
+P    -	Porcentaje de la inmunización contra el polio entre niños de 1 año.
+D    -	Porcentaje de la inmunización contra el toxoide diftérico tetánico y tos ferina entre niños de 1 año.
+VIH  -	Incidentes de VIH por cada 1000 habitantes.
+PBI  -	Producto bruto interno per cápita en USD.
+PP   -	Población total en millones.
+D10  -	Prevalencia de delgadez entre adolescentes de 10-19 años
+D5   -	Prevalencia de delgadez entre ninos de 5-9 a?os
+ESC  -	Años promedio que las personas mayores de 25 a?os pasaron en educación formal.
+EV   -	Esperanza de vida media de ambos géneros en diferentes años de 2010 a 2015.
